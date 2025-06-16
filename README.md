@@ -1,17 +1,43 @@
-## Hey, I'm [Krishna Kaushik][git] 👋
-### I'm an AI enthusiast.
+# 👋 Hey there, I'm Krishna Kaushik
 
-I graduated from Indian Institute of Technology Guwahati(IITG) in 2022. Likes to experiment a lot with AI and SDE Domain Topics by doing projects.
+🎯 **AI/ML Engineer | Applied Researcher | IIT Guwahati Alum**
 
-- 🔭 I worked as a SDE intern in Publicis Sapient.
-- 👨‍💻 I am a Data Scientist at Walmart India. (I joined in July 2022). 
-- 👯 I’m looking to collaborate on Web development and ML/DL based Projects
-- 🤔 I'm also very interested in AI domain especially Deep learning
-<!-- - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+I'm a hands-on Data Scientist with 3+ years of experience building **LLM-powered applications**, designing **agentic and RAG-based systems**, and driving **multi-million dollar business impact** through scalable AI solutions. Currently, I’m solving real-world machine learning challenges at **Walmart Global Tech**, where I design and deploy production-grade ML infrastructure used across millions of customer journeys.
+
+---
+
+## 🚀 What I Do
+
+- 🧠 **Train & Fine-Tune LLMs** (e.g., QLoRA, RLHF) on real-world behavioral data
+- 🔎 Build smart **Retrieval-Augmented Generation (RAG)** pipelines and feedback loops
+- 🧮 Design high-ROI models for **pricing, recommendation, and demand forecasting**
+- ⚙️ Optimize and monitor **end-to-end ML pipelines** using Airflow, MLflow, and Kubernetes
+- 🌍 Experiment with multimodal models and **agent-based AI architectures**
+
+---
+
+## 🧑‍🎓 Education
+
+🎓 **B.Tech, Electronics & Communication Engineering**  
+**Indian Institute of Technology Guwahati** (IITG)  
+- Top 0.6% in IIT-JEE (AIR 1351)  
+
+---
+
+## 🤝 Let's Collaborate
+
+I’m always open to:
+- Collaborating on **AI product ideas**
+- Exploring **GenAI research problems**
+- Contributing to **open-source ML tools**
+- Mentoring or learning with fellow builders
+
+📬 Reach me: **k.kaushik25@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kaushik-2523/) | [GitHub](https://github.com/krishnakaushik25)
+
+---
+
+> ⚡ "I don't build flashy agents — I build resilient systems that scale."
 
 ## 📬 Get in touch
 [<img align="left" alt="git/krishnakaushik25" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][git]
